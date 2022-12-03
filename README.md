@@ -24,5 +24,5 @@ https://buildingphp.000webhostapp.com/
 <li>Need plotly account to run the code</li>
 <li>Recommend use google chrome</li>
 
-### Author: Madhur Sharma, Kunal Singh, Divij rakhra
+### Author: Madhur Sharma (2K19/MC/067), Kunal Singh (2K19/MC/059), Divij rakhra (2K19/MC/042)
 
