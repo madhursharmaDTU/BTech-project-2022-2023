@@ -1,4 +1,4 @@
-# B.Tech Project 2022-2023
+# DTU B.Tech Project 2022-2023
 ## This is a data analysis project about world tourism analysis.
 
 The international travel & tourism sector is growring at a fast pace. The World Travel and Tourism Council report found that the travel & tourism industry generated 10.4 percent of all global economic growth. Tourism along with leisure, is also essential in a country's economy. In this analysis, we investigate the dynamic trend of evolvement in tourism sector and find the top tourist-sending countries and the countries that are most attractive to international tourists.
