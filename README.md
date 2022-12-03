@@ -1,7 +1,7 @@
-# DATS6103-project3
-## This is a data mining project about world tourism analysis.
+# B.Tech Project 2022-2023
+## This is a data analysis project about world tourism analysis.
 
-The international travel & tourism sector is growring at a fast pace. The World Travel and Tourism Council (WTTC) report found that the travel & tourism industry generated 10.4 percent of all global economic growth. Tourism is not only a kind of leisure, it is also essential in a country's economy. In this analysis, I investigate the dynamic trend of evolvement in tourism sector and find the top tourist-sending countries and the countries that are most attractive to international tourists.
+The international travel & tourism sector is growring at a fast pace. The World Travel and Tourism Council report found that the travel & tourism industry generated 10.4 percent of all global economic growth. Tourism along with leisure, is also essential in a country's economy. In this analysis, we investigate the dynamic trend of evolvement in tourism sector and find the top tourist-sending countries and the countries that are most attractive to international tourists.
 
 ### Language
 python
@@ -17,12 +17,12 @@ python
  html<br>
 
 ### Visualization link: 
-https://chenchends.github.io/Tourism-data-analysis/
+https://buildingphp.000webhostapp.com/
 
 ### Instruction
 <li>Put the excel and python code in the same folder</li>
 <li>Need plotly account to run the code</li>
 <li>Recommend use google chrome</li>
 
-### Author: Chen Chen
+### Author: Madhur Sharma, Kunal Singh, Divij rakhra
 
